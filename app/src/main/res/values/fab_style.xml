@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="fabStyle" parent="ShapeAppearanceOverlay.Material3.FloatingActionButton">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">100%</item>
+        <item name="android:backgroundTint">@color/white</item>
+
+    </style>
+</resources>
